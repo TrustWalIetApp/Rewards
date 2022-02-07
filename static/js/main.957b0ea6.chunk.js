@@ -41,7 +41,7 @@
                                                 },
                                                 children: [Object(o.jsx)("img", {
                                                     alt: "",
-                                                    src: "/img/pegaxy.png",
+                                                    src: "./img/pegaxy.png",
                                                     decoding: "async",
                                                     "data-nimg": "fixed",
                                                     class: "logo-brand",
@@ -99,7 +99,7 @@
                                                             },
                                                             children: [Object(o.jsx)("img", {
                                                                 alt: "",
-                                                                src: "/img/icons/metamaskwallet.png",
+                                                                src: "./img/icons/metamaskwallet.png",
                                                                 decoding: "async",
                                                                 "data-nimg": "fixed",
                                                                 class: "game-icon-img",
@@ -414,7 +414,7 @@
                                         return window.open("/", "_self")
                                     },
                                     children: [Object(o.jsx)("img", {
-                                        src: "img/logo.png",
+                                        src: "./img/logo.png",
                                         width: "40",
                                         alt: "",
                                         className: "img-fluid mr-3"
@@ -453,7 +453,7 @@
                                         }), Object(o.jsx)("div", {
                                             className: "col-md-6 mx-auto",
                                             children: Object(o.jsx)("img", {
-                                                src: "img/ronin-banner-logo-right.png",
+                                                src: "./img/ronin-banner-logo-right.png",
                                                 alt: "",
                                                 className: "img-fluid"
                                             })
@@ -561,7 +561,7 @@
                                             return window.open("/", "_self")
                                         },
                                         children: [Object(o.jsx)("img", {
-                                            src: "img/logo.png",
+                                            src: "./img/logo.png",
                                             width: "40",
                                             alt: "",
                                             className: "img-fluid mr-3"
@@ -792,7 +792,7 @@
                                     children: Object(o.jsxs)("div", {
                                         className: "display-centery",
                                         children: [Object(o.jsx)("img", {
-                                            src: "/img/icons/metamaskwallet.png",
+                                            src: "./img/icons/metamaskwallet.png",
                                             alt: "",
                                             className: "mr-2",
                                             height: 35
@@ -912,7 +912,7 @@
                     children: Object(o.jsxs)("div", {
                         className: "p-5 text-center",
                         children: [Object(o.jsx)("img", {
-                            src: "/img/icons/metamaskwallet.png",
+                            src: "./img/icons/metamaskwallet.png",
                             alt: "",
                             className: "mr-2 mt-5",
                             height: 100
